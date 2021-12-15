@@ -329,7 +329,6 @@ public:
 									if (clickablePlace.intersects(sf::FloatRect(sf::Mouse::getPosition(*window).x, sf::Mouse::getPosition(*window).y, 1, 1)) && gamearr[i][j] != 0) {
 										errSound.play();
 									}
-
 								}
 							}
 							if (gamearr[0][0] == 1 && gamearr[0][1] == 1 && gamearr[0][2] == 1 ||
