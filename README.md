@@ -21,10 +21,17 @@ In this project i have use sfml.
 ## Output
 **It also have sound with this outputs**
 - Home
+
 ![home page](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/Home.png?raw=true)
+
 - Playing
+
 ![playing game image](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/playing.png?raw=true)
+
 - Winner
+
 ![Game winner output imge](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/winner.png?raw=true)
+
 - About us
+
 ![About us output image](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/about%20us.png?raw=true)
