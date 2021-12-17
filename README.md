@@ -20,18 +20,18 @@ In this project i have use sfml.
 - Now build and run program and enjoy you game.
 ## Output
 **It also have sound with this outputs**
-- Home
+<center> Home</center>
 
 ![home page](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/Home.png?raw=true)
 
-- Playing
+<center> Playing</center>
 
 ![playing game image](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/playing.png?raw=true)
 
-- Winner
+<center> Winner</center>
 
 ![Game winner output imge](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/winner.png?raw=true)
 
-- About us
+<center>About us</center>
 
 ![About us output image](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/about%20us.png?raw=true)
