@@ -24,7 +24,7 @@ In this project i have use sfml.
 ![home page](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/Home.png?raw=true)
 2. Playing
 ![playing game image](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/playing.png?raw=true)
-4.Winner
+4. Winner
 ![Game winner output imge](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/winner.png?raw=true)
-5.About us
+5. About us
 ![About us output image](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/about%20us.png?raw=true)
