@@ -10,28 +10,22 @@ In this project i have use sfml.
     
 - Downlaod & Install Latest Visual Studio not Code one
     - https://visualstudio.microsoft.com/downloads/
-- Downlaod SFML C++ library and unzip it and place it in a specific path 
+- Downlaod SFML C++ library and setup it for project
     - https://www.sfml-dev.org/download/sfml/2.5.1/
-- Open this project with Visual Studio by double clicking on Tic Tac Toe.vcxproj
-- Now add the link library and include header of sfml in your system (means setup sfml for this project)
-- After this Build and Run the program
-- It will give error of dll missing 
-- Go to bin folder in SFML and copy d-2.dll like files and openal32.dll and past it in build folder where exe is creating
+    - [Setup official Link](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
+    - [Setup Youtube Link](https://www.youtube.com/watch?v=YfMQyOw1zik)
 - Now build and run program and enjoy you game.
 ## Output
 **It also have sound with this outputs**
-<center> Home</center>
-
+### Home
 ![home page](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/Home.png?raw=true)
 
-<center> Playing</center>
-
+### Playing
 ![playing game image](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/playing.png?raw=true)
 
-<center> Winner</center>
-
+### Winner
 ![Game winner output imge](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/winner.png?raw=true)
 
-<center>About us</center>
+### About us
 
 ![About us output image](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/about%20us.png?raw=true)
