@@ -16,7 +16,7 @@ In this project i have use sfml.
 - Now add the link library and include header of sfml in your system (means setup sfml for this project)
 - After this Build and Run the program
 - It will give error of dll missing 
-- Go to bin folder in SFML and copy d-2.dll like files and openal32.dll and past it in build folder where exe is creating
+- Go to bin folder in SFML and copy d-2.dll like files and openal32.dll and paste it in build folder where exe is creating
 - Now build and run program and enjoy you game.
 ## Output
 **It also have sound with this outputs**
