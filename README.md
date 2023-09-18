@@ -18,14 +18,14 @@ In this project i have use sfml.
 ## Output
 **It also have sound with this outputs**
 ### Home
-![home page](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/Home.png?raw=true)
+![home page](https://github.com/kuldeepdev407/Tic-Tac-Toe/assets/46247376/3a1e8cd4-1f4b-434e-bd40-b56b896c5171)
 
 ### Playing
-![playing game image](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/playing.png?raw=true)
+![playing game image](https://github.com/kuldeepdev407/Tic-Tac-Toe/assets/46247376/eb9f17d5-1cee-4f9d-a7cb-59d2fa08370f)
 
 ### Winner
-![Game winner output imge](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/winner.png?raw=true)
+![Game winner output imge](https://github.com/kuldeepdev407/Tic-Tac-Toe/assets/46247376/ae323bda-f9c4-4eca-a4af-0cb5470c69e7)
 
 ### About us
 
-![About us output image](https://github.com/Kuldeep800singh/Tic-Tac-Toe/blob/master/screenshots/about%20us.png?raw=true)
+![About us output image](https://github.com/kuldeepdev407/Tic-Tac-Toe/assets/46247376/0032adfc-e4c5-4667-99fe-ee4496e7f782)
